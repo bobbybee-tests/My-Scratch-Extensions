@@ -43,12 +43,12 @@ new (function() {
     var descriptor = {
         blocks: [
             // Block type, block name, function name, param1 default value, param2 default value
-            ['r', '%n ^ %n', 'power', 2, 3],
-			['r', '%s uppercase', 'uppercase', "scratch"],
-			['r', '%s lowercase', 'lowercase', "CAT"],
-			['r', '%s reversed', 'reverse', "reward"],
-			['b', 'true', 'bool1'],
-			['b', 'false', 'bool2'],
+        ['r', '%n ^ %n', 'power', 2, 3],
+	['r', '%s uppercase', 'uppercase', "scratch"],
+	['r', '%s lowercase', 'lowercase', "CAT"],
+	['r', '%s reversed', 'reverse', "reward"],
+	['b', 'true', 'bool1'],
+	['b', 'false', 'bool2'],
 		]
     };
 

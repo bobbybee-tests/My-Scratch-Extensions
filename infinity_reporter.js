@@ -9,7 +9,7 @@
     };
 
     ext.infinity = function() {
-        return Math.pow(9, 999);
+        return Infinity;
     };
 
     // Block and block menu descriptions
